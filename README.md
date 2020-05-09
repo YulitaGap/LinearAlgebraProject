@@ -8,15 +8,15 @@ Our goal is to make the research on the elegant application of mathematical tool
 * **[Yulia Hapunovych](https://github.com/YulitaGap)** 
 * **[Vitalii Papka](https://github.com/vitaliuchik)**
 
-####TO DO:
+## To do:
 
 - [x] research field choice
 - [x] possible approaches and available solutions search
 - [x] pipeline of the implementation
-- [ ] get ready with SVD theory
-- [ ] implement python image compression with SVD 
-- [ ] get ready with DCT theory
-- [ ] implement python image compression with DCT
+- [x] get ready with SVD theory
+- [x] implement python image compression with SVD 
+- [x] get ready with DCT theory
+- [x] implement python image compression with DCT
 - [ ] results testing
 - [ ] results comparison and visualization
 - [ ] summarizing
