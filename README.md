@@ -14,9 +14,8 @@ Our goal is to make the research on the elegant application of mathematical tool
 - [x] possible approaches and available solutions search
 - [x] pipeline of the implementation
 - [x] get ready with SVD theory
-- [x] implement python image compression with SVD 
+- [x] implement python image compression with SVD [done](https://github.com/YulitaGap/LinearAlgebraProject/tree/master/svd_compression)
 - [x] get ready with DCT theory
-- [x] implement python image compression with DCT
-- [ ] results testing
-- [ ] results comparison and visualization
-- [ ] summarizing
+- [x] implement python image compression with DCT [done](https://github.com/YulitaGap/LinearAlgebraProject/tree/master/dct_compression)
+- [x] results evaluation [done](https://github.com/YulitaGap/LinearAlgebraProject/tree/master/algorithms_evaluation)
+- [x] summarizing
